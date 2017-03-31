@@ -1,0 +1,27 @@
+#mainPage {
+	width: auto;
+	min-width: 1000px;
+}
+
+#content-box {
+	position: relative;
+	width: 100%;
+	min-width: 1000px;
+	background-color: #fff;
+	overflow: hidden;
+}
+
+.content-layout{
+	position: relative;
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #f2f2f2;
+	min-height:720px;
+}
+
+.main-nav {
+}
+
+.main-category {
+}
+
