@@ -21,7 +21,6 @@
 					pluginspage="http://www.macromedia.com/go/getflashplayer"
 					type="application/x-shockwave-flash" width="1000" height="600">
 			</object>
-			<a href="public/views/applicatin/Main.jsp"></a>
 			
 		</div>
 	</div>

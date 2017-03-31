@@ -6,6 +6,11 @@
 <struts>
 	<package name="default" namespace="/" extends="struts-default">
 		
+		<!-- flash页实现跳转到首页 -->
+        <action name="MainAction">
+            <result>/views/application/Main.jsp</result>
+        </action>
+		
 		<!-- 登录和注册 -->
         <action name="UILoginAction">
             <result>/view/login.jsp</result>

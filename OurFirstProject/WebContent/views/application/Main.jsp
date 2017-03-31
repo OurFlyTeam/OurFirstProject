@@ -15,11 +15,11 @@
 <script src="public/js/min/jquery-1.8.3.js"></script>
 
 <body>
-	<div id="mainPage">
+	<div id="mainPage" class="main">
 		<jsp:include   page="/views/allUse/Head.jsp" flush="true"/>  
 		<div id="content-box">
 			<div class="content-layout">
-				<div class="main-nav"></div>
+				<div class="main-nav">什么鬼</div>
 				<div class="main-category"></div>
 			</div>
 		</div>
