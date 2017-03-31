@@ -1,5 +1,13 @@
+//鼠标移动到头菜单
+$("#header-menu-Con ul li").hover(function(ev) {//鼠标悬停上面实现什么功能
+	console.log("输出日志");		
+	$(this).css("background","#80ffff");
+}, function(ev) {//鼠标移开实现什么功能
+	$(this).css("background","#f10f10f10");
+});
 
 
+//自动获取时间
 setInterval("getCurDate()", 100);
 
 var getCurDate = function getCurDate() {
@@ -46,3 +54,5 @@ var add_zero = function add_zero(temp) {
 	else
 		return temp;
 }
+
+

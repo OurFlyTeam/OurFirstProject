@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>香江光彩大市场</title>
-<meta name="desciption" content="聊城香江光彩大市场">
-<meta name="keywords" content="聊城香江光彩大市场,聊城,香江,五金,水暖,弯头,阀门">
+<title>公司</title>
+<meta name="keywords" content="关键字">
+<meta name="description" content="简介">
 </head>
 <link rel="stylesheet" type="text/css"
 	href="public/css/allUse/Layout.css">
@@ -19,7 +19,7 @@
 		<jsp:include   page="/views/allUse/Head.jsp" flush="true"/>  
 		<div id="content-box">
 			<div class="content-layout">
-				<div class="main-nav">什么鬼</div>
+				<div class="main-nav">程坤</div>
 				<div class="main-category"></div>
 			</div>
 		</div>
